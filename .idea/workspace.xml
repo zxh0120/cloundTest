@@ -66,6 +66,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -96,24 +99,14 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/provider/src/main/java/com" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ideaWorkSpace/cloud2020" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.63563216" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\work\Tool\cloud2020\document" />
-      <recent name="G:\workspace\cloud2020\consumer\src\DbScript\oracle" />
-      <recent name="G:\workspace\cloud2020\consumer\src\main\resources" />
-      <recent name="G:\workspace\cloud2020\consumer\src\main\java\com\entities" />
-      <recent name="G:\workspace\cloud2020\document" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -122,6 +115,16 @@
       <recent name="G:\workspace\cloud2020\consumer\src\main\java\com\lam\controller" />
       <recent name="G:\workspace\cloud2020\consumer\src\main\resources" />
       <recent name="G:\workspace\cloud2020\consumer\src\main\java\com\service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git\learngit\cloud2020\document" />
+      <recent name="D:\work\Tool\cloud2020\document" />
+      <recent name="G:\workspace\cloud2020\consumer\src\DbScript\oracle" />
+      <recent name="G:\workspace\cloud2020\consumer\src\main\resources" />
+      <recent name="G:\workspace\cloud2020\consumer\src\main\java\com\entities" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -141,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConsumerApplication">
+  <component name="RunManager" selected="Spring Boot.ProviderApplication">
     <configuration name="ResourcePoolConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lam.data.ResourcePoolConfig" />
       <module name="consumer" />
@@ -223,13 +226,33 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ConsumerApplication" />
         <item itemvalue="Spring Boot.ProviderApplication" />
+        <item itemvalue="Spring Boot.ConsumerApplication" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ResourcePoolConfig" />
         <item itemvalue="Application.TestIo" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3f5c3f83" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3f5c3f83" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@71e382a0" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
@@ -259,11 +282,23 @@
       <workItem from="1607781055868" duration="139000" />
       <workItem from="1607836384624" duration="11743000" />
       <workItem from="1607908357117" duration="5880000" />
+      <workItem from="1608185366842" duration="3083000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="319" y="54" width="1141" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607839069817">

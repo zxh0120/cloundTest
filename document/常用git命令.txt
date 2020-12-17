@@ -1,0 +1,8 @@
+ git add document/git.docx  document/word
+  git add .
+ git commit -m "create git.docx, update word"
+ git push origin master
+
+ git status 显示有变更的文件
+ git branch 查看当前分支
+
