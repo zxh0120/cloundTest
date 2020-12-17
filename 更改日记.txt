@@ -1,5 +1,5 @@
 版本 v1
-    1.父子工程搭建   文档待补充
+    1.父子工程搭建
     2.restTemplate
         get,post,put,delete 和 restful接口了接学习。
     3.添加io的读写（IoController）
@@ -12,9 +12,10 @@
     1.集成mybits
     2.sqlite 免费版 UserController类  和加密版 SqliteTest类（加密版看github 资源地址:
     https://github.com/Willena/sqlite-jdbc-crypt#encryption_config_cipher
-    ）     文档待补充
+    ）
     3.aop切面 logAspect配置类
+    4.git 入门上传文档
 2020年12月14日
-    4.补充父子工程文档，sqlite文档,thrift入门文档
-    5.git 学习，上传项目到git  待完成
+    补充父子工程文档，sqlite文档,thrift入门文档  --完成
+    git 学习，上传项目到git  待完成  ---完成
 
