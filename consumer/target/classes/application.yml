@@ -1,0 +1,22 @@
+server:
+  port: 80
+iosetting:
+  filePath: d:/io/test
+  #1024 * 1024 * 10
+  bufferSize: 10485760
+  charSize: 10485760
+spring:
+  datasource:
+    url: jdbc:sqlite:G:\workspace\cloud2020\consumer\src\DbScript\sqlite\demo.sqlite
+    username: 1234567
+    password: 1234567
+    # sqlite驱动
+    driver-class-name: org.sqlite.JDBC
+# mybatis配置
+mybatis:
+  mapper-locations: classpath:mapper/*.xml # 配置mapper.xml文件路径
+  type-aliases-package: com.entity # 实体类包名
+# mybatis 打印SQL, 配置后就会在控制台打印执行的SQL语句
+logging:
+  level:
+    com.desire.dao: debug
