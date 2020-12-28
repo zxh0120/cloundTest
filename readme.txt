@@ -18,4 +18,7 @@
 2020年12月14日
     补充父子工程文档，sqlite文档,thrift入门文档  --完成
     git 学习，上传项目到git ---完成
+2020年12月28日
+    mq,rabbitmq
+    mybits-Plus
 
