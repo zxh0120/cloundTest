@@ -27,7 +27,7 @@
     <mybatis.spring.boot.version>2.1.1</mybatis.spring.boot.version>
     <spring.boot.devtools.version>2.0.4.RELEASE</spring.boot.devtools.version>
     <com.alibaba.fastjson.version>1.2.13</com.alibaba.fastjson.version>
-
+    <netty.version>4.1.20.Final</netty.version>
   </properties>
 
   <!-- 子模块继承之后，提供作用：锁定版本+子module不用写groupId和version  -->
@@ -95,6 +95,13 @@
         <version>${com.alibaba.fastjson.version}</version>
       </dependency>
 
+      <!--netty-->
+      <dependency>
+        <groupId>io.netty</groupId>
+        <artifactId>netty-all</artifactId>
+        <version>${netty.version}</version>
+      </dependency>
+
       <!-- 热启动，热部署依赖包，为了调试方便，加入此包 -->
       <dependency>
         <groupId>org.springframework.boot</groupId>
@@ -102,6 +109,7 @@
         <version>${spring.boot.devtools.version}</version>
         <optional>true</optional>
       </dependency>
+
 
     </dependencies>
   </dependencyManagement>
