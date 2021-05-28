@@ -77,7 +77,7 @@ public class logAspect {
         Enumeration<?> enumeration1 = request.getHeaderNames();
         while (enumeration1.hasMoreElements()) {
             String key = (String) enumeration1.nextElement();
-            String value = request.getHeader(key);
+                 String value = request.getHeader(key);
             log.info("     {}: {}", key, value);
         }
 
