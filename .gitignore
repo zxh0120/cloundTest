@@ -1,0 +1,42 @@
+# Created by .ignore support plugin
+.gitignore
+
+# Operating System Files
+*.DS_Store
+Thumbs.db
+*.sw?
+.#*
+*#
+*~
+*.sublime-*
+
+# Build Artifacts
+.gradle/
+build/
+target/
+bin/
+out/
+
+# Eclipse Project Files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA Files
+*.iml
+*.ipr
+*.iws
+*.idea
+
+# Build file
+*.class
+
+# Package file
+*.jar
+*.war
+*.zip
+*.rar
+*.tar.gz
+
+# Ignore log file
+*.log
